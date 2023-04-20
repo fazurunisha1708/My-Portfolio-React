@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Portfolio",
+    "image": "./projectImages/P1.png",
+    "description":"This web developer portfolio consists of three sections the homepage with his bio, a dedicated project page, and a contact page,",
+    "github": "https://github.com/fazurunisha1708/portfolio",
+    "bgcolor": "grey",
+    "id": "1"
+  },
+  {
+    "title": "Weather",
+    "image": "./projectImages/weather.png",
+    "technologies": " HTML | CSS |Js",
+    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
+    "github": "https://github.com/mdyeates/weather-app",
+    "bgcolor": "White",
+    "id": "2"
+  },
+  {
+    "title": "Gift Box",
+    "image": "./projectImages/team.png",
+    "technologies": "JS | HTML |CSS ",
+    "description": "Gift box ideas for work deliver motivation, inspiration, and pure professional joy. Just one box could give employees the extra boost they need to cherish every work day and feel undeniably appreciated.",
+    "github": "https://github.com/fazurunisha1708/gift-box",
+    "bgcolor": "White",
+    "id": "3"
+  },
+  {
+    "title": "Fav Food",
+    "image": "./projectImages/quiz.png",
+    "technologies": "JS | HTML | CSS",
+    "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+    "github": "https://github.com/fazurunisha1708/Fav-food",
+    "bgcolor": "grey",
+    "id": "4"
+  },
+
+  {
+    "title": "Photography",
+    "image": "./projectImages/P1.png",
+    "description": " A photography website can be used for more than just showcasing your best images. It's a place where you can connect with fans or future clients. It's a place you can promote your products and services, a place you can make an extra income, and most importantly, a place where you can tell your story.",
+    "technologies": "React | Framer | CSS | Bootstrap | Node",
+    "github": "https://github.com/fazurunisha1708/Day2/blob/main/index.html",
+    "bgcolor": "grey",
+    "id": "1"
+  },
+
+  {
+    "title": "Food Receipe",
+    "image": "./projectImages/planner.png",
+    "technologies": "JS | Bootstrap | Moment",
+    "description": "A recipe is a formula of ingredients and a list of instructions for creating prepared foods. It is used to control quality, quantity, and food costs in a foodservice operation.",
+    "github": "https://github.com/fazurunisha1708/Day3/blob/main/index.html",
+    "bgcolor": "White",
+    "id": "6"
+  },
+  {
+    "title":"Card project",
+    "image": "./projectImages/planner.png",
+    "technologies": "JS | Bootstrap | Moment",
+    "github":"https://github.com/fazurunisha1708/React-Card-project",
+    "description":"A react card component is a content container. It incorporates options for images, headers, and footers, a wide variety of content, contextual background colors, and excellent display options.",
+    "bgcolor":"White"
+  },
+  {
+    "title":"Beauty parlour",
+    "image": "./projectImages/planner.png",
+    "technologies": "React | Framer | CSS | Bootstrap | Node",
+    "github":"https://github.com/fazurunisha1708/React-day2/blob/main/App.js",
+    "description":"A beauty pageant is a competition that has traditionally focused on judging and ranking the physical attributes of the contestants.",
+    "bgcolor":"grey"
+  }
+  
+]
